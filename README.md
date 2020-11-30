@@ -1,5 +1,5 @@
 # WCFInterceptors
-Implementing custom WCF interceptors for a WCF soap Service &amp; Console client application
+Implementing custom WCF message interceptors for a WCF soap Service &amp; Console client application
 
 A simple proof of concept application for extending WCF and implementing Interceptors to add custom headers in the Message object.
 This barebones framework can be extended to add custom authentication and authorization on the WCF service.
